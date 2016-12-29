@@ -3,14 +3,8 @@
 #EXTINF:-1, Comedy Radio
 http://ic2.101.ru:8000/v11_1
 
-#EXTINF:-1, Comedy Radio 2
-http://nbn.101.ru:8000/v11_1?43&51
-
 #EXTINF:-1, KissFM
 http://online-kissfm.tavrmedia.ua/KissFM
-
-#EXTINF:-1, KissFM Live
-http://online-kissfm.tavrmedia.ua/KissFM_Live
 
 #EXTINF:-1, DubBase FM
 http://stream.dubbase.fm:7002
@@ -18,20 +12,11 @@ http://stream.dubbase.fm:7002
 #EXTINF:-1, Radio Relax 
 http://online-radiorelax.tavrmedia.ua/RadioRelax
 
-#EXTINF:-1, Radio Relax Live 
-http://online-radiorelax.tavrmedia.ua/RadioRelax_Live
-
 #EXTINF:-1, LoungeFM
 http://cast.loungefm.com.ua/loungefm
 
 #EXTINF:-1, LuxFM
 http://stream.lux.fm:8000/
 
-#EXTINF:-1, RMix
-http://www.rmix.dp.ua/listen_high.m3u
-
-#EXTINF:-1, GalaRadio
-http://live.galaradio.com:8000/regions.m3u
-
-#EXTINF:-1, Era 96kbps
-http://212.26.129.2:8000/era96.m3u
+#EXTINF:-1, Radio Mix 
+http://media.fregat.com:8000/RadioMIX
